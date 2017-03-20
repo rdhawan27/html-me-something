@@ -1,0 +1,44 @@
+
+header h1,h3{
+  color:white;
+  text-align: center;}
+header ul li{font-size:30px; color: grey; text-align: justify;}
+body {background-color: black}
+footer{color:white}
+main article section h2{color: grey; text-align: justify;}
+main article section p{color: grey; text-align:justify;margin-left: 40px}
+ol li{color: skyblue; text-align: justify;}
+ul li{color: grey; text-align: justify;}
+figcaption{
+  color: grey; text-align: justify;padding-left: 350px;
+  padding-right: 150px;
+  padding-top:0px;
+  padding-bottom: 0px;}
+
+div.Figure1 {
+    padding-left: 250px;
+    padding-right: 150px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    }
+div.Figure2 {
+    padding-left: 450px;
+    padding-right: 150px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    }﻿
+div.Figure3 {
+    padding-left: 900px;
+    padding-right: 150px;
+    padding-top:20px;
+    padding-bottom: 20px;
+        }
+Footer {color: white
+      	text-align:center;
+        padding-left: 450px;
+        padding-top: 150px
+
+        }
+Footer p {
+        	display: inline-block;
+        }
