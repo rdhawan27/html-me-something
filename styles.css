@@ -27,13 +27,8 @@ div.Figure2 {
     padding-top:20px;
     padding-bottom: 20px;
     }﻿
-div.Figure3 {
-    padding-left: 900px;
-    padding-right: 150px;
-    padding-top:20px;
-    padding-bottom: 20px;
-        }
-Footer {color: white
+figcaption.last{padding-left: 450px;color:grey,text-align:justify;}
+Footer {color: white;
       	text-align:center;
         padding-left: 450px;
         padding-top: 150px
