@@ -27,8 +27,18 @@ div.Figure2 {
     padding-top:20px;
     padding-bottom: 20px;
     }﻿
+<<<<<<< HEAD
 figcaption.last{padding-left: 450px;color:grey,text-align:justify;}
 Footer {color: white;
+=======
+div.Figure3 {
+    padding-left: 900px;
+    padding-right: 150px;
+    padding-top:20px;
+    padding-bottom: 20px;
+        }
+Footer {color: white
+>>>>>>> daf72b1e8e109d6d324e89ff762c545cc1a7b00a
       	text-align:center;
         padding-left: 450px;
         padding-top: 150px
